@@ -1,12 +1,41 @@
-# React + Vite
+Libraray App
+Introduction
+This Library App demonstrates my React, Tailwind, HTML, CSS, and JavaScript skills by providing a responsive and interactive platform for browsing books from Googler API.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##Live Site
 
-Currently, two official plugins are available:
+https://frontend-1-vpg3.onrender.com/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Books Listings: Detailed information, images, and reviews.
+Responsive Design: Seamlessly works on all devices.
+Search: Search any book from google books api .
+Technologies Used
+React.js : Content structure
+Tailwind & CSS3: Styling and responsive design
+Framer-Motion: Animations for the website
+Libraries: framer-motion,Tailwind
+Vite: Build manager
+Getting Started
+Installation
+Clone the repository:
+git clone [https://github.com/Hemanth1310/frontend.git]
+Navigate to the project directory:
+cd .
+Running the App
+Open index.html in your preferred browser or use a local server
+File Structure
+./
+├── index.html
+├── src/
+│   └── components
+├── src/
+│   └── assets
+└── README.md
+Contact
+Email: hemanth13k@gmail.com
+GitHub: https://github.com/Hemanth1310/
+##Cerdits
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**API:[https://developers.google.com/books]
+Thank you for exploring my Library App!
